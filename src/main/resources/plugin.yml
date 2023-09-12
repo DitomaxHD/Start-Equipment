@@ -1,0 +1,7 @@
+name: Start-Equipment
+version: '${project.version}'
+main: plugin.startequipment.Main
+api-version: '1.19'
+authors: [Ditomax]
+commands:
+  starterkit:
